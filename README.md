@@ -7,8 +7,8 @@ Celui-ci serait composé de pkusieurs éléments:
     
     Un projecteur de lumière LED
     
-Un récipiant de verre contenant de l'eau
+    Un récipiant de verre contenant de l'eau
     
-Un dispositif créant un mouvement d'onsulation sur la surface de l'eau simulant l'effet de "vaguelettes".
+    Un dispositif créant un mouvement d'onsulation sur la surface de l'eau simulant l'effet de "vaguelettes".
     
-Une surface (plafond) sur laquelle l'image indulatoire est projetée.
+    Une surface (plafond) sur laquelle l'image indulatoire est projetée.
