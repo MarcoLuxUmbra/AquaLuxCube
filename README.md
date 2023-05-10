@@ -5,7 +5,7 @@ Ce projet est de créer un dispositif simulant le mouvement calme et hypnotique 
 
 Celui-ci serait composé de pkusieurs éléments:
     
-Un projecteur de lumière LED
+    Un projecteur de lumière LED
     
 Un récipiant de verre contenant de l'eau
     
