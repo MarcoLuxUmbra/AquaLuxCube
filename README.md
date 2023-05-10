@@ -3,7 +3,7 @@ Diffuseur de lumière d’eau
 
 Ce projet est de créer un dispositif simulant le mouvement calme et hypnotique de l'eau.
 
-Celui-ci serait composé de pkusieurs éléments:
+Celui-ci serait composé de plusieurs éléments:
     
     Un projecteur de lumière LED
     
